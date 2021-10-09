@@ -1,0 +1,3 @@
+# Project exclude paths
+/01-ObjectLiteral/node_modules/
+/02-BlockScopedVariables/node_modules/
